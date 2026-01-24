@@ -3,14 +3,6 @@
 A powerful and reliable Vencord plugin to clear all your own messages in any Direct Message (DM).
 
 
-### 🚀 Easy Install (Windows PowerShell)
-
-Just run this command in your PowerShell to automatically install the plugin:
-
-```powershell
-iex (iwr -UseBasicParsing "https://raw.githubusercontent.com/uncapp3d/ClearMyMessages/main/install.ps1").Content
-```
-
 ### Manual Installation
 
 1. Download the `clearMyMessages` folder.
