@@ -3,7 +3,7 @@
 A powerful and reliable Vencord plugin to clear all your own messages in any Direct Message (DM).
 
 ---
-> This project was created as a privacy- focused tool to help users remove their own messages, ensuring a clean digital footprint. I do not take > responsibility for any misuse, and this tool is intended for educational and personal privacy use only. Please be aware of Discord’s terms of > service, and use this responsibly.
+> This project was created as a privacy- focused tool to help users remove their own messages, ensuring a clean digital footprint. I do not take  responsibility for any misuse, and this tool is intended for educational and personal privacy use only. Please be aware of Discord’s terms of  service, and use this responsibly.
 ---
 
 
